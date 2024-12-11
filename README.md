@@ -1,4 +1,4 @@
-<h2 align="left">"Hi, I'm Aum Mehta { 👩🏻‍💻 }</h2>
+<h2 align="left">Hi, I'm Aum Mehta { 👩🏻‍💻 }</h2>
 
 ###
 
