@@ -1,13 +1,11 @@
-<h2 align="left">Hi, I'm Aum Mehta { 👩🏻‍💻 }</h2>
+<h2 align="left">Hi, i'm Aum { 👩🏻‍💻 }</h2>
 
 ###
 
 <p align="left">Hi, I'm [ Aum! ] A [ 20-year-old ] diving into [ full-stack web development, ]<br>excited to solve real-world problems and bring them to life through <br>websites! {🌱 <mark>currently learning full stake development</mark> }</p>
 
 ###
-
-
-<img align="left" height="200" src="https://media.giphy.com/media/1iNIkQBAwEkUuTpikf/giphy.gif?cid=790b7611bzexquqy50h8se0iorux41desr0z38uwwzagbkwk&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
+<img align="left" height="200" src="https://media.giphy.com/media/1iNIkQBAwEkUuTpikf/giphy.gif?cid=790b7611bzexquqy50h8se0iorux41desr0z38uwwzagbkwk&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
@@ -28,9 +26,6 @@
 </div>
 
 ###
-<br>
-<br>
-<br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mehta-aum-177002265/" target="_blank">
@@ -48,14 +43,12 @@
 </div>
 
 ###
-
-
+<br><br>
 <br clear="both">
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MehtaAum&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shades-of-purple&locale=en&hide_border=false" height="150" alt="stats graph"  /> &nbsp; &nbsp; &nbsp;
-  <img src="https://streak-stats.demolab.com?user=MehtaAum&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=MehtaAum&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shades-of-purple&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MehtaAum&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
