@@ -5,7 +5,7 @@
 <p align="left">Hi, I'm [ Aum! ] A [ 20-year-old ] diving into [ full-stack web development, ]<br>excited to solve real-world problems and bring them to life through <br>websites! {🌱 <mark>currently learning full stake development</mark> }</p>
 
 ###
-<img align="left" height="150" src="https://media.giphy.com/media/1iNIkQBAwEkUuTpikf/giphy.gif?cid=790b7611bzexquqy50h8se0iorux41desr0z38uwwzagbkwk&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<img align="left" height="200" src="https://media.giphy.com/media/1iNIkQBAwEkUuTpikf/giphy.gif?cid=790b7611bzexquqy50h8se0iorux41desr0z38uwwzagbkwk&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
@@ -28,11 +28,18 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <a href="https://x.com/_Mehta_Aum" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/mehta-aum-177002265/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/mehta.aum01/profilecard/?igsh=djEzd2FvNWQ1b290" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.youtube.com/@aummehtaofficial" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
 </div>
 
 ###
