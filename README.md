@@ -1,13 +1,8 @@
-<h2 align="left">Hi, i'm Aum { 👩🏻‍💻 }</h2>
+<h2 align="left">Hi, I'm Aum { 👩🏻‍💻 }</h2>
 
-###
+<p align="left">Hi, I'm [ Aum! ] A [ 20-year-old ] diving into [ full-stack web development, ]<br>excited to solve real-world problems and bring them to life through <br>websites! {🌱 currently learning full-stack development }</p>
 
-<p align="left">Hi, I'm [ Aum! ] A [ 20-year-old ] diving into [ full-stack web development, ]<br>excited to solve real-world problems and bring them to life through <br>websites! {🌱 <mark>currently learning full stake development</mark> }</p>
-
-###
 <img align="left" height="200" src="https://media.giphy.com/media/1iNIkQBAwEkUuTpikf/giphy.gif?cid=790b7611bzexquqy50h8se0iorux41desr0z38uwwzagbkwk&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -25,8 +20,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
 </div>
 
-###
-
 <div align="center">
   <a href="https://www.linkedin.com/in/mehta-aum-177002265/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -42,7 +35,6 @@
   </a>
 </div>
 
-###
 <br><br>
 <br clear="both">
 
@@ -51,5 +43,3 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MehtaAum&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
