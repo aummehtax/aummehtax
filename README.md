@@ -47,8 +47,8 @@
 <br clear="both">
 
 <div align="left">
-  [![MehtaAum GitHub stats](https://github-readme-stats.vercel.app/api?username=MehtaAum)](https://github.com/MehtaAum/github-readme-stats)
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=MehtaAum&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shades-of-purple&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
+
+<img src="https://github-readme-stats.vercel.app/api?username=MehtaAum&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shades-of-purple&locale=en&hide_border=false" height="150" alt="stats graph"  /> 
   &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MehtaAum&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
