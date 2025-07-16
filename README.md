@@ -2,9 +2,12 @@
 
 ###
 
-<p align="left">Hi, I'm [ Aum! ] A [ 20-year-old ] diving into [ full-stack web development, ]<br>excited to solve real-world problems and bring them to life through <br>websites! {🌱 <mark>currently learning full stake development</mark> }</p>
+<p align="left">
+I'm a <strong>20-year-old developer</strong> diving into <strong>full-stack development</strong>.<br>
+I enjoy solving real-world problems through code and building practical solutions.<br>
+🌱 <em>Currently learning and growing in full-stack development</em>
+</p>
 
-###
 
 
 ###
