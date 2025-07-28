@@ -58,7 +58,7 @@ I enjoy solving real-world problems through code and building practical solution
 <br>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MehtaAum&theme=dracula&cache_seconds=86400" height="150" alt="stats graph"  />
+<img src="https://github-readme-stats-aum.vercel.app/api?username=MehtaAum&theme=dracula&cache_seconds=86400" height="150" alt="stats graph" />
   &nbsp&nbsp
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MehtaAum&layout=compact&langs_count=6&theme=dracula&cache_seconds=86400" height="150" alt="languages graph" height="150" alt="languages graph"  />
 </div>
