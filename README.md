@@ -58,7 +58,8 @@ I enjoy solving real-world problems through code and building practical solution
 <br>
 
 <div align="left">
-<img src="https://github-readme-stats-git-main-aums-projects-f601848f.vercel.app/api?username=MehtaAum&theme=dracula" alt="GitHub Stats" height="150"/>
+<img src="https://github-readme-stats-k7hr76kot-aums-projects-f601848f.vercel.app/api?username=MehtaAum&theme=dracula" alt="GitHub Stats" height="150"/>
+
   &nbsp&nbsp
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MehtaAum&layout=compact&langs_count=6&theme=dracula&cache_seconds=86400" height="150" alt="languages graph" height="150" alt="languages graph"  />
 </div>
