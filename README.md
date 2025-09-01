@@ -33,6 +33,8 @@ I enjoy solving real-world problems through code and building practical solution
 <img width="17" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" alt="linux logo" />
 <img width="17" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="35" alt="redux-toolkit logo" />
+<img width="17" />
 </div>
 
 ###
