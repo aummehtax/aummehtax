@@ -1,41 +1,45 @@
-<h2 align="left">Hi, i'm Aum [ 👩🏻‍💻 ]</h2>
+Hi! I'm Aum 👋  
+I'm a 20-year-old developer diving into full-stack development.  
+I enjoy solving real-world problems through code and building practical solutions.  
+Currently learning and growing in full-stack development.  
 
-###
+Coffee goes cold while I dive deep into ideas, another night lost in learning, another morning discovering something new.
 
-<p align="left">
-I'm a <strong>20-year-old developer</strong> diving into <strong>full-stack development</strong>.<br>
-I enjoy solving real-world problems through code and building practical solutions.<br>
-🌱 <em>Currently learning and growing in full-stack development</em>
-</p>
+There's beauty in clean UIs and elegant code.  
 
+```
+status = "always_learning"
+current_obsession = "building_products"
+dev_env = "linux"
+```
 
 
 ###
 
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo" />
+<img src="https://skillicons.dev/icons?i=html" height="35" alt="html5 logo" />
 <img width="17" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo" />
+<img src="https://skillicons.dev/icons?i=css" height="35" alt="css3 logo" />
 <img width="17" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35" alt="bootstrap logo" />
+<img src="https://skillicons.dev/icons?i=bootstrap" height="35" alt="bootstrap logo" />
 <img width="17" />
-<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="35" alt="tailwindcss logo" />
+<img src="https://skillicons.dev/icons?i=tailwind" height="35" alt="tailwindcss logo" />
 <img width="17" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git logo" />
+<img src="https://skillicons.dev/icons?i=git" height="35" alt="git logo" />
 <img width="17" />
 <img src="https://skillicons.dev/icons?i=github" height="35" alt="github logo" />
 <img width="17" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" alt="cplusplus logo" />
+<img src="https://skillicons.dev/icons?i=cpp" height="35" alt="cplusplus logo" />
 <img width="17" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo" />
+<img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo" />
 <img width="17" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo" />
+<img src="https://skillicons.dev/icons?i=react" height="35" alt="react logo" />
 <img width="17" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" alt="linux logo" />
+<img src="https://skillicons.dev/icons?i=linux" height="35" alt="linux logo" />
 <img width="17" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="35" alt="redux-toolkit logo" />
+<img src="https://skillicons.dev/icons?i=redux" height="35" alt="redux-toolkit logo" />
 <img width="17" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="35" alt="redux-toolkit logo" />
+<img src="https://skillicons.dev/icons?i=firebase" height="35" alt="firebase logo" />
 <img width="17" />
 </div>
 
@@ -60,17 +64,5 @@ I enjoy solving real-world problems through code and building practical solution
 
 <br clear="both">
 <br>
-
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aummehtax&theme=dracula&cache_seconds=86400" height="150" alt="stats graph" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aummehtax&layout=compact&langs_count=6&theme=dracula&cache_seconds=86400" height="150" alt="languages graph" />
-</div>
-<!-- <div align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=aummehtax&theme=dracula&cache_seconds=30" height="150" alt="stats graph"  />
-  &nbsp&nbsp
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aummehtax&layout=compact&langs_count=6&theme=dracula&cache_seconds=86400" height="150" alt="languages graph" height="150" alt="languages graph"  />
-</div> -->
 
 ###
