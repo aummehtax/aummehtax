@@ -46,17 +46,8 @@ dev_env = "linux"
 
 ###
 
-<div align="center">
-  <a href="https://x.com/aummehta_dev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/aum-mehta-177002265/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/mehta.aum01/profilecard/?igsh=djEzd2FvNWQ1b290" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.youtube.com/@aummehta1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-</div>
+[![Twitter](https://img.shields.io/badge/-Twitter-grey?style=for-the-badge&logo=x)](https://x.com/aummehta_dev) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aum-mehta-177002265/) 
+[![Instagram](https://img.shields.io/badge/Instagram-red?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mehta.aum01/profilecard/?igsh=djEzd2FvNWQ1b290) 
+[![YouTube](https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@aummehta1)
+
