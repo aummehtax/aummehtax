@@ -17,7 +17,7 @@ dev_env = "linux"
 
 ###
 
-<div align="center">
+<div align="left">
 <img src="https://skillicons.dev/icons?i=html" height="35" alt="html5 logo" />
 <img width="17" />
 <img src="https://skillicons.dev/icons?i=css" height="35" alt="css3 logo" />
