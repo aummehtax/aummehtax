@@ -42,6 +42,8 @@ dev_env = "linux"
 <img width="17" />
 <img src="https://skillicons.dev/icons?i=firebase" height="35" alt="firebase logo" />
 <img width="17" />
+<img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="node js logo" />
+<img width="17" />
 </div>
 
 ###
