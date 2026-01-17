@@ -1,6 +1,6 @@
 Hi! I'm Aum 👋  
 
-I'm a 20-year-old developer diving into full-stack development.  
+I'm a 21-year-old developer diving into full-stack development.  
 I enjoy solving real-world problems through code and building practical solutions.  
 Currently learning and growing in full-stack development.  
 
