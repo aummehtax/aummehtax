@@ -50,6 +50,8 @@ dev_env = "linux"
 <img width="17" />
 <img src="https://skillicons.dev/icons?i=postman" height="35" alt="mongodb logo" />
 <img width="17" />
+<img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/5/zod-jxeoj68ny4h94671educq4.png/zod-xe0a17we1j8ox6lns9ruf.png?_a=DATAiZAAZAA0" height="35" alt="zod logo" />
+<img width="17" />
 </div>
 
 ###
